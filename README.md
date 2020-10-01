@@ -1,5 +1,5 @@
-The Ways of the World
-=====================
+The Ways of the This World
+===========================
 
 ## Deployment ##
 Our site is deployed on a Linode server and runs behind nginx using fastcgi.
@@ -14,5 +14,6 @@ Restart nginx with `/etc/init.d/nginx restart` and restart django with `/etc/ini
 
 ## When Things Go Wrong ##
 Check out [this] if you're having trouble with the path info env variable.
+Must Check
 
 [this]: http://neithere.net/dev/notes/nginx-fcgi-django/
